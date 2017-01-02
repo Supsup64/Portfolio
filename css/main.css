@@ -40,9 +40,9 @@ footer {
 	height: 50px;
 	background-color: #DDDDDD;
 }
-footer p {
+footer h1 {
 	font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", sans-serif;
 	text-align: center;
 	font-size: 16px;
-	padding-top: 13px;
+	margin-top: 18px;
 }
